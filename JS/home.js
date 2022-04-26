@@ -82,7 +82,7 @@ const cards = {
         let li = document.createElement("li")
         li.innerHTML = ` 
             <div class="img-container">
-                <a href="#">
+                <a href="/PaginaProduto.html">
                     <img
                     src="https://images.unsplash.com/photo-1618354691373-d851c5c3a990?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=715&q=80"
                     class="product-image"
